@@ -1,0 +1,24 @@
+ {
+    "id": 1,
+    "images": [
+      "https://images.pexels.com/photos/3747163/pexels-photo-3747163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "name": "macdo-title",
+    "description": "some description",
+    "user_id": 1,
+    "city_id": 1,
+    "etablissement_id": 1,
+    "user": {
+      "id": 1,
+      "name": "mohammed",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    "city": {
+      "id": 1,
+      "name": "tanger"
+    },
+    "etablissement": {
+      "id": 1,
+      "name": "fst"
+    }
+  }
